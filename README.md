@@ -6,13 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-###`npm install`
-###`npm i react-select`
+### `npm install`
+### `npm i react-select`
 ### `npm install redux`
-###`npm i react-select`
-###`npm install eslint-plugin-react-hooks --save-dev`
-###`npm i highcharts-react-official`
-###`npm i highcharts`
+### `npm i react-select`
+### `npm install eslint-plugin-react-hooks --save-dev`
+### `npm i highcharts-react-official`
+### `npm i highcharts`
 
 
 
